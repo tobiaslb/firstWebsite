@@ -31,6 +31,11 @@ footer {
   margin-top: 2rem;
 }
 
+centerText {
+  display: flex; 
+  justify-content: center;
+}
+
 button {
   padding: 16px 32px;
   background-color: #4c6ef5;
