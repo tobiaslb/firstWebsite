@@ -21,7 +21,7 @@ section {
   background-color: white;
   padding: 1rem;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 footer {
@@ -29,4 +29,15 @@ footer {
   padding: 1rem;
   background-color: #e9ecef;
   margin-top: 2rem;
+}
+
+button {
+  padding: 16px 32px;
+  background-color: #4c6ef5;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  display: inline-block;
 }
