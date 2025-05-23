@@ -36,7 +36,7 @@ centerText {
   justify-content: center;
 }
 
-button {
+a {
   padding: 16px 32px;
   background-color: #4c6ef5;
   color: white;
